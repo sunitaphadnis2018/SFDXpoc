@@ -1,0 +1,244 @@
+[
+    [
+        "/Users/phadniss/geolocation/force-app",
+        {
+            "sourcePath": "/Users/phadniss/geolocation/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1530306275000,
+            "changeTime": 1530306275000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1530306275000,
+            "changeTime": 1530306275000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1530306275000,
+            "changeTime": 1530306275000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation",
+        {
+            "sourcePath": "/Users/phadniss/geolocation",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1530915653000,
+            "changeTime": 1530915653000,
+            "contentHash": "44a8ecf7bcb89a6a73fc54a78d19dbdd315e3f8f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17878,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "0d273611b5be8d59e2ce233f412cbff11e4620e8"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 368,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "ce8e0ebaea0bdf6855995858c5f55c891eca146b"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ],
+    [
+        "/Users/phadniss/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/phadniss/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1531262108000,
+            "changeTime": 1531262108000,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
